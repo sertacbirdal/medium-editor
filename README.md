@@ -1,5 +1,6 @@
 ﻿![medium-editor needs help!](https://user-images.githubusercontent.com/2444240/56086015-c42e3000-5e1b-11e9-9692-b97816f67712.png)
 
+
 If you would be interested in helping to maintain one of the most successful WYSIWYG text editors on github, let us know!  (See issue [#1503](https://github.com/yabwe/medium-editor/issues/1503))
 
 # MediumEditor
